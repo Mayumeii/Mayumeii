@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 
+
+My Name is Mayumi a student of TI in Brazil.
+
+I am working to create a group of studys who focus in the STEM.
+
+I am studying Python, Java, Copilot and C++
+
 
 <!--
 **Mayumeii/Mayumeii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
